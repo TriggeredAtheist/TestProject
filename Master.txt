@@ -7,3 +7,7 @@
 /data/test2.zip https://wordpress.org/latest.zip
 <End of Version>
 
+<Version: 1.03>
+/data/Map001.json https://www.dropbox.com/s/hwxr0xntbvnq2os/Map001.json?dl=0
+/data/Map002.json https://www.dropbox.com/s/6zutr5m9iujvt5x/Map002.json?dl=0
+
