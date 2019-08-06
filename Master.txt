@@ -16,6 +16,6 @@
 <End of Version>
 
 <Version 1.05>
-/data/Map002.json https://raw.githubusercontent.com/TriggeredAtheist/TestProject/master/Map002.json
+/data/Map002.json https://raw.githubusercontent.com/TriggeredAtheist/TestProject/master/Map002-2.json
 <End of Version>
 
