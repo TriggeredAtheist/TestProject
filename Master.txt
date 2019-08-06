@@ -1,4 +1,9 @@
 
 <Version: 1.01>
-/data/Map002.json https://wordpress.org/latest.zip
+/data/test1.zip https://wordpress.org/latest.zip
 <End of Version>
+
+<Version: 1.02>
+/data/test2.zip https://wordpress.org/latest.zip
+<End of Version>
+
