@@ -8,7 +8,6 @@
 <End of Version>
 
 <Version: 1.03>
-/data/Map001.zip https://www.dropbox.com/s/hwxr0xntbvnq2os/Map001.json?dl=0
-/data/Map002.zip https://www.dropbox.com/s/6zutr5m9iujvt5x/Map002.json?dl=0
+/data/Map002.json https://raw.githubusercontent.com/TriggeredAtheist/TestProject/master/Map002.json
 <End of Version>
 
