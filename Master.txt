@@ -12,5 +12,5 @@
 <End of Version>
 
 <Version: 1.04>
-/data/Weapons https://raw.githubusercontent.com/TriggeredAtheist/TestProject/master/Weapons.json
+/data/Weapons.json https://raw.githubusercontent.com/TriggeredAtheist/TestProject/master/Weapons.json
 <End of Version>
