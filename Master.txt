@@ -23,3 +23,7 @@
 /data/Map001.json https://raw.githubusercontent.com/TriggeredAtheist/TestProject/master/Map001.json
 /data/Map002.json https://raw.githubusercontent.com/TriggeredAtheist/TestProject/master/Map002.json
 <End of Version>
+
+<Version: 1.15>
+/data/Map002.json https://raw.githubusercontent.com/TriggeredAtheist/TestProject/master/Map002.json
+<End of Version>
