@@ -14,3 +14,7 @@
 <Version: 1.04>
 /data/Weapons.json https://raw.githubusercontent.com/TriggeredAtheist/TestProject/master/Weapons.json
 <End of Version>
+
+<Version: 1.05>
+/data/Map002.json https://raw.githubusercontent.com/TriggeredAtheist/TestProject/master/Map002.json
+<End of Version>
